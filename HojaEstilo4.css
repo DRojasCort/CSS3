@@ -1,0 +1,30 @@
+ul li
+{
+	color:#069;
+	font-size:50px;
+	font-weight: bold;
+	list-style-type: none;
+}
+
+ul li::before
+{
+	content: url(imagen.png);
+}
+
+ul li::after
+{
+	content: url(clic.png);
+}
+
+p::first-letter
+{
+	font-size: 36px;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+p::first-line
+{
+	color: #333;
+	text-decoration: underline;
+}

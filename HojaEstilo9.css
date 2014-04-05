@@ -1,0 +1,12 @@
+/* @ */
+@font-face
+{
+	font-family:"Digital";
+	src:url(dited.eot), url(dited.ttf), url(dited.otf);
+}
+
+.parrafo-personalizado
+{
+	font-family: 'Ceviche One', cursive;
+	
+}

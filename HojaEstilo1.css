@@ -1,0 +1,28 @@
+body
+{
+	background-color: #FFF;
+}
+
+h1,h2
+{
+	color:#990000;
+	text-decoration: underline;
+}
+
+p
+{
+	color:#555555;
+}
+.instructor
+{
+	color:#006699;
+}
+#PiePagina
+{
+
+	color:#093;
+}
+nav ul li
+{
+	color:#3333CC;
+}
