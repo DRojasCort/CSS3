@@ -1,0 +1,13 @@
+body
+{
+	background-image: url(nokia.png), url(01.jpg);
+	background-repeat: no-repeat,repeat;
+	background-position: center bottom,left top;
+	background-size: 20% 40%;
+}
+
+.space
+{
+	height:500px;
+
+}

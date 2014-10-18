@@ -1,0 +1,22 @@
+body
+{
+}
+#contenido
+{
+	width:800px;	
+	margin: 0 auto;
+	background-color: #003399;
+	height: 700px;
+}
+.prueba
+{
+	background-color: #333333;
+	height: 100px;
+	left:40%; 
+	position: fixed;
+	top:30%;
+	width: 300px;
+	top: 20px;
+	left: -50px;
+
+}

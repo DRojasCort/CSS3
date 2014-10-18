@@ -1,0 +1,32 @@
+body
+{
+	
+	color:white;
+	font-size: 40px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	text-align: center;
+}
+
+
+nav ul li
+{
+	float: left;
+	margin-left: 30px;
+	font-size: 20px;
+	text-align: left;
+}
+.contenido
+{
+	background-color: #003366;
+	border-right: solid;
+	border-left: solid;
+	border-width: 5px;
+	border-color: Red;
+
+	height: 300px;
+	margin:0 auto;
+	width: 800px;
+}
